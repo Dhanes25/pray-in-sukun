@@ -1,0 +1,26 @@
+.header-title {
+    float: center;
+    font-family: monospace;
+    font-size: 36px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    border: 10px solid orange;
+    padding: 5px;
+    width: auto;
+    height: auto;
+    margin: 0px;
+}
+
+.footer-tittle {
+	font-family: monospace;
+	font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 2px;
+    width:auto;
+    height: auto;
+    margin: 0px;
+}
+
